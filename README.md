@@ -125,16 +125,25 @@ int main()
    {
        //clear();
        printf("\n\n\t  TIC TAC TOE \n\n ");
+       
        printf("Player1 (X) - Player2(0) \n\n\n");
+       
        printf( "    |      |        \n");
+       
        printf(" %c  |   %c |    %c  \n" , square[1], square[2], square[3]);
+       
        printf(" ____|______|______\n");
+       
        printf( "    |      |      \n");
         printf(" %c |   %c |    %c  \n", square[4], square[5], square[6]);
+        
        printf(" ____|______|______\n");
+       
        printf( "    |      |      \n");
       printf(" %c   |   %c |    %c  \n" , square[7], square[8], square[9]);
+      
        printf(" ____|______|______\n");
+       
        printf( "    |      |      \n");
       
       
